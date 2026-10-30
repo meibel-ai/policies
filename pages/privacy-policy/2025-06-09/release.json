@@ -1,0 +1,26 @@
+{
+  "page": "privacy-policy",
+  "title": "Privacy Policy",
+  "category": "privacy",
+  "kind": "captured",
+  "effective": "2025-06-09",
+  "url": "https://www.meibel.ai/privacy",
+  "files": {
+    "captured.html": "a0d40d2dbae5ab40567c85e69e3c2efce75ba01f16156f6ab558df5318ff84ff"
+  },
+  "captured": {
+    "at": "2026-10-30T19:16:21Z",
+    "note": "Published on meibel.ai before this record began; captured as served.",
+    "earlier_snapshot": "http://web.archive.org/web/20260713023832/https://www.meibel.ai/privacy",
+    "wayback": "https://web.archive.org/web/20261030191606/https://www.meibel.ai/privacy"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-10-30"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json"
+  },
+  "repo": "meibel-ai/policies"
+}
