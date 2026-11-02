@@ -1,0 +1,29 @@
+{
+  "page": "promotional-offers",
+  "title": "Promotional offers",
+  "category": "pricing",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/pricing/offers",
+  "files": {
+    "index.md": "fe7158dff5127b2e8ee93d0b1ca8bf816ec965fd1df1f1ad97073c21de486d28",
+    "index.html": "95bf5a6c7b11f2ff512bea5ef290762d30c414da6f9062e814b2f7db0fd3bf60"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/pricing/offers",
+    "confirmed_at": "2026-11-02T12:17:40Z",
+    "wayback": "https://web.archive.org/web/20261102121725/https://www.meibel.ai/pricing/offers"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
