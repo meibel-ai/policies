@@ -1,0 +1,29 @@
+{
+  "page": "terms-of-service",
+  "title": "Meibel Customer Agreement",
+  "category": "terms",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/terms-of-service",
+  "files": {
+    "index.md": "f40507ed760d5566f142f93fe7122a8d8f45ef1eb648640bad4d71f781fbd9dc",
+    "index.html": "5f07bcfe419f66fbf93c5eb1866646e63d23c6474860ca9e8f7e3f23f7a84d8e"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/terms-of-service",
+    "confirmed_at": "2026-11-02T12:11:23Z",
+    "wayback": "https://web.archive.org/web/20261102121107/https://www.meibel.ai/terms-of-service"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
