@@ -1,0 +1,29 @@
+{
+  "page": "price-list",
+  "title": "Price List",
+  "category": "pricing",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/pricing/price-list",
+  "files": {
+    "index.md": "3582b6be7be2e48f8fba7285bbbcd2a591fff789b93dbb60b148057a58448d55",
+    "index.html": "6dc334f69f553041dcb305caf7457172b6da3a867e4602949c3b07d7e130003d"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/pricing/price-list",
+    "confirmed_at": "2026-11-02T12:16:04Z",
+    "wayback": "https://web.archive.org/web/20261102121547/https://www.meibel.ai/pricing/price-list"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
