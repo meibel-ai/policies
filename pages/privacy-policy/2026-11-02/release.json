@@ -1,0 +1,29 @@
+{
+  "page": "privacy-policy",
+  "title": "Privacy Policy",
+  "category": "privacy",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/privacy-policy",
+  "files": {
+    "index.md": "7ad2b8314a821ed5ecf0a1064a8f4c057a161de7c8f9f73177e3d456c396df5a",
+    "index.html": "180bde6e9b8157ba085e970d32da17d71bd01007e04a41ac823d3dc075a551b2"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/privacy-policy",
+    "confirmed_at": "2026-11-02T12:12:34Z",
+    "wayback": "https://web.archive.org/web/20261102121219/https://www.meibel.ai/privacy-policy"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
