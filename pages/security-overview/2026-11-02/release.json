@@ -1,0 +1,29 @@
+{
+  "page": "security-overview",
+  "title": "Security overview",
+  "category": "security",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/security",
+  "files": {
+    "index.md": "b67325b08c8a0547b71862b413aed7b190a929ad45e3110e88510b355aeb7376",
+    "index.html": "3e4cce88152beabcaf970011c968f2f930facbafeeb59e72bb4466cb6c580fbd"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/security",
+    "confirmed_at": "2026-11-02T12:13:02Z",
+    "wayback": "https://web.archive.org/web/20261102121246/https://www.meibel.ai/security"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
