@@ -1,0 +1,29 @@
+{
+  "page": "plans-and-limits",
+  "title": "Plans and limits",
+  "category": "pricing",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/pricing/plans",
+  "files": {
+    "index.md": "8bedd5752ba8ae99c1db536fa1fa2f44178ea692d00eaf635c6eb761f2e8648d",
+    "index.html": "64a8fdc7927a6927adac4ac51c1b5f092b45b9a150ee0c86699f347333e062f8"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/pricing/plans",
+    "confirmed_at": "2026-11-02T12:17:10Z",
+    "wayback": "https://web.archive.org/web/20261102121655/https://www.meibel.ai/pricing/plans"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
