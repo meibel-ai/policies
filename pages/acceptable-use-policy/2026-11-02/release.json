@@ -1,0 +1,29 @@
+{
+  "page": "acceptable-use-policy",
+  "title": "Acceptable Use Policy",
+  "category": "terms",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/acceptable-use",
+  "files": {
+    "index.md": "3c1a17c51e79c9e114d469972ddc24503b58356f5927e7804925e3538d4358cf",
+    "index.html": "f5bfbb5550fa4bea470cabd560d45c65ed0371ed4ed7de59b07ee952049ee78a"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/acceptable-use",
+    "confirmed_at": "2026-11-02T12:12:05Z",
+    "wayback": "https://web.archive.org/web/20261102121150/https://www.meibel.ai/acceptable-use"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
