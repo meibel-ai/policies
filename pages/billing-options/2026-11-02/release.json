@@ -1,0 +1,29 @@
+{
+  "page": "billing-options",
+  "title": "Billing options for online plans",
+  "category": "pricing",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/billing",
+  "files": {
+    "index.md": "7a48add74a582d229a52a3ada3c6a96804af482bb89e253e78fd1fc96f32bdbb",
+    "index.html": "a02a9dbbf5c29cae0e17ca395efa0d23de396feaf3d110cbfa08a49a26a19462"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/billing",
+    "confirmed_at": "2026-11-02T12:14:47Z",
+    "wayback": "https://web.archive.org/web/20261102121432/https://www.meibel.ai/billing"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
