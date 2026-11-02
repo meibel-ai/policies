@@ -1,0 +1,29 @@
+{
+  "page": "metering",
+  "title": "How Meibel meters usage",
+  "category": "pricing",
+  "kind": "release",
+  "effective": "2026-11-02",
+  "url": "https://www.meibel.ai/pricing/metering",
+  "files": {
+    "index.md": "985495240c52c371dd2a546d53c6c1dacffa92724527bd5556e20a0a0d17cad2",
+    "index.html": "ddd397377bf12dcb625d4f3e6ec64249e92661eb252f1f0dd6817eb66f29fd0b"
+  },
+  "approved": {
+    "by": "Kevin McGrath, CEO",
+    "on": "2026-11-02"
+  },
+  "source": {
+    "paper_bundle": "780bcc58f7de"
+  },
+  "live": {
+    "url": "https://www.meibel.ai/pricing/metering",
+    "confirmed_at": "2026-11-02T12:14:18Z",
+    "wayback": "https://web.archive.org/web/20261102121403/https://www.meibel.ai/pricing/metering"
+  },
+  "proofs": {
+    "timestamp.tsr": "RFC 3161 (FreeTSA) over release.json",
+    "timestamp.ots": "OpenTimestamps over release.json (pending; completed in timestamp.bitcoin.ots)"
+  },
+  "repo": "meibel-ai/policies"
+}
